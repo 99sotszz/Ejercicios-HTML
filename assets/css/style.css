@@ -1,0 +1,25 @@
+table {
+    text-align: center;
+    border: 3px solid black ; 
+    border-right: 7px red;
+    border-left: blue;
+    border-top: 7px green;
+    border-bottom: hidden;
+}
+
+th, td{
+    border: 3px solid green ;
+    padding: 30px 15px 30px 5px;
+}
+
+
+
+.tabla1{
+    text-align: center;
+    border: 3px black;
+}
+
+.tabla-dos{
+ text-align: center;
+    border: 2px dashed green;
+}
